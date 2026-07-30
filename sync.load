@@ -1,0 +1,32 @@
+<div class="block">
+    <div class="title">SYN – Synchronisation</div>
+    <pre id="syn"></pre>
+</div>
+<div class="block">
+    <div class="title">FLX – Flexion</div>
+    <pre id="flx"></pre>
+</div>
+<div class="block">
+    <div class="title">VEC – Vektor</div>
+    <pre id="vec"></pre>
+</div>
+<div class="block">
+    <div class="title">ARC – Archiv</div>
+    <pre id="arc"></pre>
+</div>
+# SYN · FLX · VEC · ARC – Achsen · iki1uc
+
+## SYN – Synchronisationsachse
+Synchronisiert MIA und ECHO.
+Erzeugt Lock‑Werte und Stabilitätsstatus.
+
+## FLX – Flexionsachse
+Krümmt ECHO‑Resonanzen.
+Nutzen vector.js + opta.js für Flugkrümmung.
+
+## VEC – Vektorachse
+Erzeugt Pulse‑Vektoren aus ION.
+Nutzen vector.js + opta.js für Flugoptimierung.
+
+## ARC – Archivachse
+Speichert Pulse‑Zustände aus PUL, ION, MIA, ECHO.
